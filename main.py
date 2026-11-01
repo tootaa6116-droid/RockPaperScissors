@@ -5,7 +5,7 @@ computer_score = 0
 
 choices = ["Rock", "Paper", "Scissors"]
 
-print("=== Rock Paper Scissors ===")
+print("=== Welcome to Rock Paper Scissors ===")
 
 while True:
     player = input("\nChoose Rock, Paper, or Scissors (or Q to quit): ").capitalize()
